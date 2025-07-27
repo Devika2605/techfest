@@ -1993,4 +1993,19 @@ html, body {
      /* Slightly less for very small screens */
   }
 }
+/* Small phones (extra adjustment) */
+@media (max-width: 412px) {
+  .title-gap {
+    width: 4ch;
+     /* Slightly less for very small screens */
+  }
+}
+
+/* Small phones (extra adjustment) */
+@media (max-width: 398px) {
+  .title-gap {
+    width: 1.4ch;
+     /* Slightly less for very small screens */
+  }
+}
 
